@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/school_tools_frontend_fresh/static/css/main.635a0b59.chunk.css",
-    "main.js": "/school_tools_frontend_fresh/static/js/main.390787e2.chunk.js",
-    "main.js.map": "/school_tools_frontend_fresh/static/js/main.390787e2.chunk.js.map",
-    "runtime-main.js": "/school_tools_frontend_fresh/static/js/runtime-main.a1b33fb2.js",
-    "runtime-main.js.map": "/school_tools_frontend_fresh/static/js/runtime-main.a1b33fb2.js.map",
-    "static/css/2.668a74ba.chunk.css": "/school_tools_frontend_fresh/static/css/2.668a74ba.chunk.css",
-    "static/js/2.cddcb5e2.chunk.js": "/school_tools_frontend_fresh/static/js/2.cddcb5e2.chunk.js",
-    "static/js/2.cddcb5e2.chunk.js.map": "/school_tools_frontend_fresh/static/js/2.cddcb5e2.chunk.js.map",
-    "index.html": "/school_tools_frontend_fresh/index.html",
-    "precache-manifest.99a985cd8132ef43ad1223549f13dd95.js": "/school_tools_frontend_fresh/precache-manifest.99a985cd8132ef43ad1223549f13dd95.js",
-    "service-worker.js": "/school_tools_frontend_fresh/service-worker.js",
-    "static/css/2.668a74ba.chunk.css.map": "/school_tools_frontend_fresh/static/css/2.668a74ba.chunk.css.map",
-    "static/css/main.635a0b59.chunk.css.map": "/school_tools_frontend_fresh/static/css/main.635a0b59.chunk.css.map",
-    "static/js/2.cddcb5e2.chunk.js.LICENSE.txt": "/school_tools_frontend_fresh/static/js/2.cddcb5e2.chunk.js.LICENSE.txt"
+    "main.css": "/orion_webtools_parent_client/static/css/main.635a0b59.chunk.css",
+    "main.js": "/orion_webtools_parent_client/static/js/main.554f41ea.chunk.js",
+    "main.js.map": "/orion_webtools_parent_client/static/js/main.554f41ea.chunk.js.map",
+    "runtime-main.js": "/orion_webtools_parent_client/static/js/runtime-main.0bd91415.js",
+    "runtime-main.js.map": "/orion_webtools_parent_client/static/js/runtime-main.0bd91415.js.map",
+    "static/css/2.b4653f77.chunk.css": "/orion_webtools_parent_client/static/css/2.b4653f77.chunk.css",
+    "static/js/2.db19fc24.chunk.js": "/orion_webtools_parent_client/static/js/2.db19fc24.chunk.js",
+    "static/js/2.db19fc24.chunk.js.map": "/orion_webtools_parent_client/static/js/2.db19fc24.chunk.js.map",
+    "index.html": "/orion_webtools_parent_client/index.html",
+    "precache-manifest.9921639ea33e9eb2787afb09b358635e.js": "/orion_webtools_parent_client/precache-manifest.9921639ea33e9eb2787afb09b358635e.js",
+    "service-worker.js": "/orion_webtools_parent_client/service-worker.js",
+    "static/css/2.b4653f77.chunk.css.map": "/orion_webtools_parent_client/static/css/2.b4653f77.chunk.css.map",
+    "static/css/main.635a0b59.chunk.css.map": "/orion_webtools_parent_client/static/css/main.635a0b59.chunk.css.map",
+    "static/js/2.db19fc24.chunk.js.LICENSE.txt": "/orion_webtools_parent_client/static/js/2.db19fc24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1b33fb2.js",
-    "static/css/2.668a74ba.chunk.css",
-    "static/js/2.cddcb5e2.chunk.js",
+    "static/js/runtime-main.0bd91415.js",
+    "static/css/2.b4653f77.chunk.css",
+    "static/js/2.db19fc24.chunk.js",
     "static/css/main.635a0b59.chunk.css",
-    "static/js/main.390787e2.chunk.js"
+    "static/js/main.554f41ea.chunk.js"
   ]
 }
