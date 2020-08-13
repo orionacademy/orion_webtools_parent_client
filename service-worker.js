@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/orion_webtools_parent_client/precache-manifest.9921639ea33e9eb2787afb09b358635e.js"
+  "/orion_webtools_parent_client/precache-manifest.95073e0e2cb58840f41eeafdc9ddbcb5.js"
 );
 
 self.addEventListener('message', (event) => {
