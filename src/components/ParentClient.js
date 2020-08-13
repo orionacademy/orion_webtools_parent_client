@@ -84,10 +84,25 @@ class ParentClient extends React.Component {
         //console.log(this.state)
         // TODO: instead of using false here, make a prop in parent called userType and have it = parent
         if (this.state.parent != false) {
-            this.setState({ loginState: <ParentView studentId={this.state.parent.student} /> })
+            this.setState({ loginState: <ParentView studentId={this.state.parent.student} returnToLogin={() => this.returnToLogin()}/> })
         } else {
             alert(this.state.condition + " is not a registered username!")
         }
+    }
+
+    // returns user back to login menu
+    returnToLogin() {
+        console.log("confirmed work")
+        this.setState({
+            loginState:
+                <CollectionForm >
+                    <LoginMenu
+                        callbackButton={() => this.authCheck()}
+                        callbackOnChangeUsername={(event) => this.updateUsernameState(event)}
+                        callbackOnChangePassword={(event) => this.updatePasswordState(event)}
+                    />
+                </CollectionForm>
+        })
     }
 
     render() {

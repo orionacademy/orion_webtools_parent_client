@@ -26,7 +26,7 @@ function ParentView(props) {
     return (
         <div>
             <CollectionForm>
-                <ParentHomebriding studentId={props.studentId} />
+                <ParentHomebriding studentId={props.studentId} returnToLogin={props.returnToLogin}/>
             </CollectionForm>
         </div >
     )

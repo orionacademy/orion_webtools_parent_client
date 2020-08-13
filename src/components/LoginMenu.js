@@ -3,6 +3,8 @@ import React from "react";
 import { AwesomeButton } from 'react-awesome-button';
 import AwesomeButtonStyles from "react-awesome-button/src/styles/styles.scss";
 
+
+
 var Loader = require('react-loader');
 
 
@@ -18,10 +20,6 @@ class LoginMenu extends React.Component {
                     <br />
                     <br />
                     <p className="uk-text-lead">Orion Academy Webtools and Database</p>
-                    <p className="uk-text-meta">(Parent View - Username = pparent, Password = 123)</p>
-                    <p className="uk-text-meta">(Admin View - Username = admin, Password = 123)</p>
-                    <h4>Heroku server may take a minute to wake up upon data submission!</h4>
-
 
                     <br />
                     <br />
